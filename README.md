@@ -2,20 +2,20 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Data+Scientist;Machine+Learning+Engineer;Statistical+Analyst;Python+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Data+Scientist;Software+Developer;Full+Stack+Developer;Machine+Learning+Engineer)](https://git.io/typing-svg)
 
 </div>
 
 ## 🚀 About Me
 
-I'm a passionate **Data Scientist** and **Machine Learning Engineer** with expertise in statistical analysis, predictive modeling, and business intelligence. I love transforming complex data into actionable insights and building intelligent systems that solve real-world problems.
+I'm a passionate **Data Scientist** and **Software Developer** with expertise in statistical analysis, machine learning, and full-stack development. I love transforming complex data into actionable insights and building innovative software solutions that solve real-world problems.
 
-- 🔭 I'm currently working on **Advanced ML Projects** and **Statistical Analysis**
-- 🌱 I'm continuously learning **Deep Learning**, **MLOps**, and **Advanced Statistics**
-- 👯 I'm looking to collaborate on **Data Science Projects** and **Open Source Contributions**
-- 💬 Ask me about **Python**, **Machine Learning**, **Statistics**, and **Data Analytics**
-- 📫 How to reach me: **[Your Email]** | **[LinkedIn Profile]**
-- ⚡ Fun fact: I enjoy turning data puzzles into business solutions!
+- 🔭 I'm currently working on **Data Science Projects** and **Full Stack Applications**
+- 🌱 I'm continuously learning **Advanced Machine Learning**, **Cloud Technologies**, and **Modern Web Frameworks**
+- 👯 I'm looking to collaborate on **Data Science Projects**, **Web Applications**, and **Open Source Contributions**
+- 💬 Ask me about **Python**, **Java**, **Machine Learning**, **Statistics**, and **Full Stack Development**
+- 📫 How to reach me: **devdpatel0005@gmail.com**
+- ⚡ Fun fact: I enjoy solving complex problems with both data and code!
 
 ---
 
@@ -23,10 +23,24 @@ I'm a passionate **Data Scientist** and **Machine Learning Engineer** with exper
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### Database Technologies
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ### Data Science & ML
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -40,15 +54,12 @@ I'm a passionate **Data Scientist** and **Machine Learning Engineer** with exper
 ![Seaborn](https://img.shields.io/badge/Seaborn-4c72b0?style=for-the-badge&logo=seaborn&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
-### Tools & Platforms
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### Development Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
@@ -66,64 +77,48 @@ I'm a passionate **Data Scientist** and **Machine Learning Engineer** with exper
 
 ---
 
-
-
-## 📈 Analytics & Contributions
+## 📈 Professional Highlights
 
 <div align="center">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=devpatel0005&color=brightgreen&style=flat-square)](https://github.com/devpatel0005)
-[![Repositories](https://img.shields.io/badge/Repositories-29-blue?style=flat-square)](https://github.com/devpatel0005?tab=repositories)
+[![Repositories](https://img.shields.io/badge/Repositories-29+-blue?style=flat-square)](https://github.com/devpatel0005?tab=repositories)
 [![Pull Shark Achievement](https://img.shields.io/badge/Achievement-Pull%20Shark-orange?style=flat-square)](https://github.com/devpatel0005)
 
 </div>
 
-### 🎯 Areas of Expertise
-- **Statistical Analysis:** Hypothesis testing, A/B testing, Confidence intervals, ANOVA
-- **Machine Learning:** Supervised/Unsupervised learning, Deep learning, NLP, Computer Vision
-- **Business Intelligence:** KPI analysis, Performance optimization, Data-driven decision making
-- **Financial Analytics:** Risk assessment, Portfolio optimization, Time series forecasting
-- **Operations Research:** Process optimization, Quality control, Resource allocation
+
+## 📚 Continuous Learning Journey
+
+I'm always exploring new technologies and expanding my skill set:
+
+- 🤖 **Advanced AI/ML:** Deep learning frameworks and neural networks
+- ☁️ **Cloud Technologies:** AWS, Azure, GCP for scalable solutions
+- 🔄 **DevOps & MLOps:** CI/CD pipelines and automated deployments
+- 📱 **Modern Frameworks:** Latest web and mobile development trends
+- 🧠 **Emerging Technologies:** Blockchain, IoT, and edge computing
 
 ---
 
-## 🌟 Recent Achievements
-
-- 🏆 **Pull Shark Achievement** - Active contributor to open source projects
-- 📊 **29+ Public Repositories** - Diverse portfolio of data science projects
-- 🔬 **Advanced Statistical Projects** - Real-world business problem solving
-- 🤖 **AI/ML Implementations** - Cutting-edge technology applications
-- 📈 **Business Impact Projects** - Quantifiable results and improvements
-
----
-
-## 📚 Continuous Learning
-
-I'm always exploring new technologies and methodologies:
-
-- 🧠 **Deep Learning:** Advanced neural networks and architectures
-- ☁️ **Cloud Platforms:** AWS, Azure, GCP for ML deployment
-- 🔄 **MLOps:** Model versioning, monitoring, and lifecycle management
-- 📊 **Advanced Analytics:** Bayesian statistics, causal inference
-- 🚀 **Emerging Tech:** LLMs, Generative AI, Edge ML
-
----
 
 ## 🤝 Let's Connect!
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devdpatel0005/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devdpatel0005@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devpatel0005)
 
 </div>
 
 ---
 
-## 💡 Philosophy
+## 💡 My Development Philosophy
 
-> "Data is the new oil, but analytics is the refinery." - Turning raw data into valuable insights that drive business success and innovation.
+> "Code is like humor. When you have to explain it, it's bad." - Cory House
+
+I believe in writing clean, efficient, and maintainable code that solves real problems. Whether it's analyzing complex datasets, building scalable web applications, or developing intuitive mobile apps, I focus on creating solutions that make a meaningful impact.
+
 
 <div align="center">
 
@@ -132,6 +127,6 @@ I'm always exploring new technologies and methodologies:
 [![GitHub followers](https://img.shields.io/github/followers/devpatel0005?style=social)](https://github.com/devpatel0005)
 [![GitHub stars](https://img.shields.io/github/stars/devpatel0005?style=social)](https://github.com/devpatel0005)
 
-**Thanks for visiting my profile! 😊**
+**Thanks for visiting my profile! Let's build something amazing together! 🚀**
 
 </div>
