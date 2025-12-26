@@ -63,20 +63,6 @@ I'm a passionate **Data Scientist** and **Software Developer** with expertise in
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-[![Dev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devpatel0005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/devpatel0005)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devpatel0005&theme=tokyonight&hide_border=true)](https://github.com/devpatel0005)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devpatel0005&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/devpatel0005)
-
-</div>
-
----
-
 ## 📈 Professional Highlights
 
 <div align="center">
