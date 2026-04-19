@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Data Scientist** and **Software Developer** with expertise in statistical analysis, machine learning, and full-stack development. I love transforming complex data into actionable insights and building innovative software solutions that solve real-world problems.
+I'm a passionate **Data Scientist** and **Gen AI** with expertise in statistical analysis, machine learning, and Gen AI. I love transforming complex data into actionable insights and building innovative software solutions that solve real-world problems.
 
 - 🔭 I'm currently working on **Data Science Projects** and **Full Stack Applications**
 - 🌱 I'm continuously learning **Advanced Machine Learning**, **Cloud Technologies**, and **Modern Web Frameworks**
@@ -32,15 +32,6 @@ I'm a passionate **Data Scientist** and **Software Developer** with expertise in
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ### Data Science & ML
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -79,11 +70,7 @@ I'm a passionate **Data Scientist** and **Software Developer** with expertise in
 I'm always exploring new technologies and expanding my skill set:
 
 - 🤖 **Advanced AI/ML:** Deep learning frameworks and neural networks
-- ☁️ **Cloud Technologies:** AWS, Azure, GCP for scalable solutions
-- 🔄 **DevOps & MLOps:** CI/CD pipelines and automated deployments
-- 📱 **Modern Frameworks:** Latest web and mobile development trends
-- 🧠 **Emerging Technologies:** Blockchain, IoT, and edge computing
-
+- ☁️ **Cloud Technologies:** AWS, GCP for scalable solutions
 ---
 
 
